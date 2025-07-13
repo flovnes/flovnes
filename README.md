@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09867ad0-ac0c-466a-9937-6e74373c12d1" height="250">
+  <img src="https://github.com/user-attachments/assets/c18cfad2-82f6-4ee5-9abf-da76332197c4" height="250">
                       <p> seals are awesome and cool too i think </p>
 </div>
